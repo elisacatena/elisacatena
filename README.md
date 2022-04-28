@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elisacatena
-- 👀 I’m computer engineering student
+- 👀 I’m a computer engineering student
 - 🌱 I’m currently learning Web Development
 
 <!---
