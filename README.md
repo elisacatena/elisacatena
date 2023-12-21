@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elisacatena
 - 👀 I’m a computer engineering student
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Software Development
 
 <!---
 elisacatena/elisacatena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
